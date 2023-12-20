@@ -1,0 +1,10 @@
+# Analysis
+
+This section entails my ongoing research, comparing four historical squares in Philadelphia: Logan, Franklin, Rittenhouse, and Washington (originally, including another square, Center Square, where City Hall and Dilworth Park are now situated). These squares serve as a testament to Philadelphia's rich history and stand as integral features within Center City.
+
+Regrettably, the construction of the Vine Expressway has notably impacted two of these squares—Logan and Franklin—resulting in decreased vitality. The expressway's pass by these squares, significantly affecting their connectivity and overall function.
+
+In my final research, I aim to visually depict the adverse effects of the Vine Expressway on these two squares, particularly in terms of commercial vitality and green coverage.
+
+The research is structured into two primary segments. The first part involves a comparison of the four squares using OpenStreetMap (OSM) data. The second part centers on analyzing Normalized Difference Vegetation Index (NDVI) data. These segments have been slightly modified based on the Week 5 lesson plans.Regarding the OSM component, I have utilized amenity data from OSM, focusing on restaurants and cafes, to create visual representations.For the NDVI analysis, my emphasis has been on comparing the NDVI values of the four squares.
+

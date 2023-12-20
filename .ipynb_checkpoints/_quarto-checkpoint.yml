@@ -38,11 +38,8 @@ website:
       - about.qmd
       - section: analysis/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
-          - analysis/5-testing.ipynb
+          - analysis/Part1_osm data.ipynb
+          - analysis/Part2_NDVI data.ipynb
 
 format:
   html:
